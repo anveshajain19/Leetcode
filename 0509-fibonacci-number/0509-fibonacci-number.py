@@ -1,14 +1,14 @@
 class Solution:
     def fib(self, n: int) -> int:
-        dp = [-1] * (n + 1)
-        return self.helper(n, dp)
-    
-    def helper(self, n: int, dp: List[int]) -> int:
-        if n <= 1:
-            return n
+        if n == 0:
+            return 0
+        if n == 1:
+            return 1
 
-        if dp[n] != -1:
-            return dp[n]
-        
-        dp[n] = self.helper(n - 1, dp) + self.helper(n - 2, dp)
-        return dp[n]
+        prev2 = 0
+        prev = 1
+        for i in range(2, n + 1):
+            cur_i = prev2 + prev
+            prev2 = prev
+            prev = cur_i
+        return prev
