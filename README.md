@@ -14,3 +14,11 @@ This repositiory will contain leetcode problems solution in Python!
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/anveshajain19/Leetcode/tree/master/0409-longest-palindrome) |
+# Array
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anveshajain19/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anveshajain19/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
