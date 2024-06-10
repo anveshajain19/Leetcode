@@ -3,11 +3,9 @@ class Solution:
         profit = 0
         n = len(prices)
         buy = prices[0]
-        for i in range(n):
+        for i in range( 1, n ):
             if buy > prices[i]:
                 buy = prices[i]
-            if prices[i] - buy > profit:
+            elif prices[i] - buy > profit:
                 profit = prices[i] - buy
         return profit
-                
-        
