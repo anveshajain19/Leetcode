@@ -10,6 +10,7 @@ This repositiory will contain leetcode problems solution in Python!
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/anveshajain19/Leetcode/tree/master/0409-longest-palindrome) |
+| [1944-truncate-sentence](https://github.com/anveshajain19/Leetcode/tree/master/1944-truncate-sentence) |
 # Greedy
 |  |
 | ------- |
@@ -23,6 +24,7 @@ This repositiory will contain leetcode problems solution in Python!
 | [0075-sort-colors](https://github.com/anveshajain19/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anveshajain19/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/anveshajain19/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1944-truncate-sentence](https://github.com/anveshajain19/Leetcode/tree/master/1944-truncate-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/anveshajain19/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Dynamic Programming
 |  |
