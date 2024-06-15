@@ -24,6 +24,7 @@ This repositiory will contain leetcode problems solution in Python!
 | [0053-maximum-subarray](https://github.com/anveshajain19/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/anveshajain19/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anveshajain19/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/anveshajain19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/anveshajain19/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1944-truncate-sentence](https://github.com/anveshajain19/Leetcode/tree/master/1944-truncate-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/anveshajain19/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -37,6 +38,7 @@ This repositiory will contain leetcode problems solution in Python!
 | ------- |
 | [0031-next-permutation](https://github.com/anveshajain19/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/anveshajain19/Leetcode/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/anveshajain19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 # Sorting
 |  |
 | ------- |
@@ -51,3 +53,11 @@ This repositiory will contain leetcode problems solution in Python!
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/anveshajain19/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+# Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/anveshajain19/Leetcode/tree/master/0287-find-the-duplicate-number) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/anveshajain19/Leetcode/tree/master/0287-find-the-duplicate-number) |
