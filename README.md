@@ -43,6 +43,7 @@ This repositiory will contain leetcode problems solution in Python!
 | [0031-next-permutation](https://github.com/anveshajain19/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/anveshajain19/Leetcode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/anveshajain19/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/anveshajain19/Leetcode/tree/master/0633-sum-of-square-numbers) |
 # Sorting
 |  |
 | ------- |
@@ -62,6 +63,7 @@ This repositiory will contain leetcode problems solution in Python!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/anveshajain19/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/anveshajain19/Leetcode/tree/master/0633-sum-of-square-numbers) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -74,3 +76,7 @@ This repositiory will contain leetcode problems solution in Python!
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anveshajain19/Leetcode/tree/master/0073-set-matrix-zeroes) |
+# Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/anveshajain19/Leetcode/tree/master/0633-sum-of-square-numbers) |
