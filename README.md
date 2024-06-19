@@ -11,6 +11,7 @@ This repositiory will contain leetcode problems solution in Python!
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/anveshajain19/Leetcode/tree/master/0409-longest-palindrome) |
+| [1894-merge-strings-alternately](https://github.com/anveshajain19/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/anveshajain19/Leetcode/tree/master/1944-truncate-sentence) |
 # Greedy
 |  |
@@ -44,6 +45,7 @@ This repositiory will contain leetcode problems solution in Python!
 | [0075-sort-colors](https://github.com/anveshajain19/Leetcode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/anveshajain19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/anveshajain19/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1894-merge-strings-alternately](https://github.com/anveshajain19/Leetcode/tree/master/1894-merge-strings-alternately) |
 # Sorting
 |  |
 | ------- |
