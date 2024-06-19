@@ -10,6 +10,7 @@ This repositiory will contain leetcode problems solution in Python!
 # String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/anveshajain19/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/anveshajain19/Leetcode/tree/master/0409-longest-palindrome) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anveshajain19/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/anveshajain19/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -48,6 +49,7 @@ This repositiory will contain leetcode problems solution in Python!
 | [0031-next-permutation](https://github.com/anveshajain19/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/anveshajain19/Leetcode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/anveshajain19/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/anveshajain19/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/anveshajain19/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1894-merge-strings-alternately](https://github.com/anveshajain19/Leetcode/tree/master/1894-merge-strings-alternately) |
 # Sorting
