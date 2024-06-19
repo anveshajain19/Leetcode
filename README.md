@@ -84,6 +84,7 @@ This repositiory will contain leetcode problems solution in Python!
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anveshajain19/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/anveshajain19/Leetcode/tree/master/0110-balanced-binary-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -92,3 +93,8 @@ This repositiory will contain leetcode problems solution in Python!
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anveshajain19/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/anveshajain19/Leetcode/tree/master/0110-balanced-binary-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/anveshajain19/Leetcode/tree/master/0110-balanced-binary-tree) |
