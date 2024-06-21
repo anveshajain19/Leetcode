@@ -44,6 +44,7 @@ This repositiory will contain leetcode problems solution in Python!
 | ------- |
 | [0053-maximum-subarray](https://github.com/anveshajain19/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anveshajain19/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anveshajain19/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 # Two Pointers
 |  |
 | ------- |
@@ -96,6 +97,7 @@ This repositiory will contain leetcode problems solution in Python!
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anveshajain19/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/anveshajain19/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anveshajain19/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/anveshajain19/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 # Breadth-First Search
 |  |
@@ -106,9 +108,11 @@ This repositiory will contain leetcode problems solution in Python!
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anveshajain19/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/anveshajain19/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anveshajain19/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/anveshajain19/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/anveshajain19/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anveshajain19/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/anveshajain19/Leetcode/tree/master/0543-diameter-of-binary-tree) |
