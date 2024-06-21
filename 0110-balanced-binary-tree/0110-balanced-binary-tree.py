@@ -15,3 +15,4 @@ class Solution(object):
         if leftheight < 0 or rightheight < 0 or abs(leftheight - rightheight) > 1:  
             return -1
         return max(leftheight, rightheight) + 1
+        
