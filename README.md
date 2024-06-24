@@ -35,6 +35,7 @@ This repositiory will contain leetcode problems solution in Python!
 | [0502-ipo](https://github.com/anveshajain19/Leetcode/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/anveshajain19/Leetcode/tree/master/0605-can-place-flowers) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/anveshajain19/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/anveshajain19/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/anveshajain19/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/anveshajain19/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1944-truncate-sentence](https://github.com/anveshajain19/Leetcode/tree/master/1944-truncate-sentence) |
@@ -79,6 +80,7 @@ This repositiory will contain leetcode problems solution in Python!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/anveshajain19/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/anveshajain19/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Heap (Priority Queue)
 |  |
 | ------- |
@@ -116,3 +118,15 @@ This repositiory will contain leetcode problems solution in Python!
 | [0110-balanced-binary-tree](https://github.com/anveshajain19/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anveshajain19/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/anveshajain19/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+# Queue
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/anveshajain19/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Sliding Window
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/anveshajain19/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Prefix Sum
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/anveshajain19/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
