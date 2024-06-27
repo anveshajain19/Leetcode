@@ -130,3 +130,7 @@ This repositiory will contain leetcode problems solution in Python!
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/anveshajain19/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/anveshajain19/Leetcode/tree/master/1916-find-center-of-star-graph) |
